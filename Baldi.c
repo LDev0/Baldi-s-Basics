@@ -2,8 +2,7 @@
 #include<conio.h>
 #include<stdlib.h>
 
-void  main()
-
+int main(void)
 {
 	int a, b, c, d;
 	int attempt;
